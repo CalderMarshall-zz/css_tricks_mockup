@@ -1,0 +1,103 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+#header {
+  height: 10vh;
+  width: 100%;
+  background-color: white;
+  border-bottom: 5px solid #8D5816;
+}
+/* left menu icon*/
+#ham {
+  height: 60%;
+  width: 55px;
+  float: left;
+  margin: 10px;
+}
+/*main logo*/
+#logo{
+  height: 70%;
+  margin: 10px;
+  float: left;
+}
+/* search box*/
+#searchbox {
+  border: 1px solid gray;
+  width: 20%;
+  height: 60%;
+  float: right;
+  margin: 10px;
+  font-size: 28px;
+}
+/* search glass*/
+#search {
+  float: right;
+  margin: 10px;
+  height: 60%;
+}
+#content {
+  height: 90vh;
+  width: 70%;
+  background-color: white;
+  border: 15px solid #353535;
+}
+#head1{
+  margin: 5%;
+  font-size: 30px;
+  font-family: impact;
+  width: 75%;
+}
+#link{
+  float: right;
+  width: 10%;
+  margin-top: 1%;
+  margin-right: 5%;
+}
+.info{
+  margin: 5%;
+}
+.blue{
+  color: rgb(65, 173, 219);
+  font-weight: bold;
+}
+#gray{
+  color: gray;
+}
+.quote1{
+  margin: 5%;
+}
+#kevintext{
+  margin: 5%;
+}
+#rightnav {
+  height: 90vh;
+  width: 30%;
+  background-color: white;
+  float: right;
+  margin-top: -5px;
+  border-top: 5px solid #F6B45C;
+  padding-top: 5px;
+  text-align: center;
+}
+/*get hired image*/
+#gethired {
+  width: 90%;
+  margin: 10px;
+}
+/*build custom web forms easily*/
+#build{
+  padding-top: 50%;
+  text-align: center;
+  font-weight: bold;
+}
+#webform {
+  color: gray
+}
+#parasign{
+  padding-top: 20%;
+}
+#signup{
+  background-color: #649DED;
+  color: white;
+}
